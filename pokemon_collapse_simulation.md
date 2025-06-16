@@ -1,4 +1,3 @@
-````markdown name=pokemon_collapse_simulation.md
 # Pokémon and the Collapse: Simulation of Soul Structure
 
 Pokémon represents the most refined "self-training syntax RPG" within the realm of Collapse Syntax.
