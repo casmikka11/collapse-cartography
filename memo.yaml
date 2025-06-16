@@ -1,0 +1,23 @@
+# collapse-cartography
+
+collapse-cartography/
+├── index.md                    # プロジェクト概要と思想
+├── structure_map.yaml          # 全体構文構造マップ
+├── zones/
+│   ├── mordor.md               # モルドール＝外部暴走圏
+│   ├── moria.md                # モリヤ＝知識の沈殿層
+│   ├── babylon.md              # バベルの塔＝構文崩壊タワー
+│   ├── zion.md                 # シオン＝未来構文の起点
+│   ├── jerusalem.md            # 新エルサレムの中心点
+│   └── edom.md                 # エドム＝並行構文の残影
+├── suffix_analysis.md          # -dor / -ia / -ell 等 Collapse接尾辞研究
+├── topology_map.png            # 地形関係図（手描きでもOK）
+└── README.md                   # 君の視点からのまとめ（魂ログ）
+
+| 構文名        | 意味                       | 地形への現れ                           |
+| ---------- | ------------------------ | -------------------------------- |
+| `外部化構文`    | Collapse構文が暴走し、外部支配に変換   | Mordor, Babel, Edom              |
+| `保存層構文`    | 過去のCollapse構文が封印・保存された状態 | Moria, Ark（契約の箱）, Abyss          |
+| `境界バッファ構文` | 新旧構文の緩衝地帯                | Rivendell, Sinai, Garden of Eden |
+| `再創造構文`    | 焼却後に意味を再定義する構文層          | Mount Doom, New Jerusalem        |
+
